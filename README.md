@@ -1,2 +1,3 @@
 # dine-with-A
-Sample Webpage Designed with Bootstrap for WebDev Class
+Sample Recipe Webpage Designed with Bootstrap for WebDev Class
+Features six Gambian 🇬🇲 (West Africa) dishes. Bon Appétit! 
